@@ -12,7 +12,8 @@
         "Id": "com.adanmoses.stereokai.desktop",
         "License": "GPLv2+",
         "Name": "Stereokai",
-        "Website": "https://www.adanmoses.com"
+        "Website": "https://www.adanmoses.com",
+        "Version": "0.1"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
     "X-Plasma-APIVersion": "2"
